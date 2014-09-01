@@ -1,0 +1,14 @@
+{
+  "name": "hermes",
+  "version": "0.0.1",
+  "description": "Telepresence robot",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/achingbrain/hermes.git"
+  },
+  "dependencies": {
+    "brickpi": "^1.0"
+  }
+}
